@@ -10,7 +10,7 @@ namespace WebApp
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+            builder.Services.AddRazorPages();
             builder.Services.AddScoped<RepositorioAluno>();
 
             var app = builder.Build();
@@ -40,7 +40,7 @@ namespace WebApp
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Aluno}/{action=Index}/{id?}");
 
             app.Run();
         }
