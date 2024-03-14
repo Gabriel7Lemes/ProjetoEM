@@ -1,0 +1,11 @@
+D:\ProjetoEM\EM_Web\EM.Repositorio\bin\Debug\net8.0\EM.Repositorio.deps.json
+D:\ProjetoEM\EM_Web\EM.Repositorio\bin\Debug\net8.0\EM.Repositorio.dll
+D:\ProjetoEM\EM_Web\EM.Repositorio\bin\Debug\net8.0\EM.Repositorio.pdb
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.AssemblyInfoInputs.cache
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.AssemblyInfo.cs
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.csproj.CoreCompileInputs.cache
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.dll
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\refint\EM.Repositorio.dll
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\EM.Repositorio.pdb
+D:\ProjetoEM\EM_Web\EM.Repositorio\obj\Debug\net8.0\ref\EM.Repositorio.dll

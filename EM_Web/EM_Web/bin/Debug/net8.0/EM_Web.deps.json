@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EM_Web/1.0.0": {
+        "dependencies": {
+          "EM.Domain": "1.0.0",
+          "EM.Repositorio": "1.0.0"
+        },
+        "runtime": {
+          "EM_Web.dll": {}
+        }
+      },
+      "EM.Domain/1.0.0": {
+        "runtime": {
+          "EM.Domain.dll": {}
+        }
+      },
+      "EM.Repositorio/1.0.0": {
+        "runtime": {
+          "EM.Repositorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EM_Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EM.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EM.Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

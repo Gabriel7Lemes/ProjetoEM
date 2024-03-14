@@ -1,0 +1,11 @@
+D:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.deps.json
+D:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.dll
+D:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.pdb
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfoInputs.cache
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfo.cs
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
+D:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll
