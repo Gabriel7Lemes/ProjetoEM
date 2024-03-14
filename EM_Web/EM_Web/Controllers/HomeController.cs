@@ -1,25 +1,40 @@
+using EM_DomainAluno;
+using EM_RepositorioAluno;
 using EM_Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Text.RegularExpressions;
+using WebApp.Models;
 
-namespace EM_Web.Controllers {
-    public class HomeController : Controller {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger) {
-            _logger = logger;
+namespace WebApp.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly RepositorioAluno _repositorio;
+        public HomeController(RepositorioAluno repositorio)
+        {
+            _repositorio = repositorio;
         }
 
-        public IActionResult Index() {
+        public IActionResult Index()
+        {
+            return View();
+
+        }
+
+        public IActionResult Infos()
+        {
             return View();
         }
 
-        public IActionResult Privacy() {
+        public IActionResult PageNotFound()
+        {
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error() {
+        public IActionResult Error()
+        {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }

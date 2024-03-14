@@ -34,3 +34,4 @@ D:\ProjetoEM\EM_Web\EM_Web\bin\Debug\net8.0\EM.Domain.pdb
 D:\ProjetoEM\EM_Web\EM_Web\bin\Debug\net8.0\EM.Repositorio.pdb
 D:\ProjetoEM\EM_Web\EM_Web\obj\Debug\net8.0\EM_Web.csproj.AssemblyReference.cache
 D:\ProjetoEM\EM_Web\EM_Web\obj\Debug\net8.0\EM_Web.csproj.CopyComplete
+D:\ProjetoEM\EM_Web\EM_Web\obj\Debug\net8.0\EM_Web.sourcelink.json
