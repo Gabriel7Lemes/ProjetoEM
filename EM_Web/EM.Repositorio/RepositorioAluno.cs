@@ -17,9 +17,9 @@ namespace EM_RepositorioAluno
             {
                 UserID = "SYSDBA",
                 Password = "masterkey",
-                Database = @"D:\ProjetoEM\EM_Web\DBALUNOS.FB4",
+                Database = @"c:\ProjetoEM\EM_Web\DBALUNOS.FB4",
                 DataSource = "localhost",
-                Port = 3050
+                Port = 3054
             };
             _connectionString = connectionString;
         }
@@ -39,7 +39,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ////throw new Exception("Algo deu errado: " + ex);
             }
             return alunos;
         }
@@ -66,7 +66,7 @@ namespace EM_RepositorioAluno
             connection.Open();
             try
             {
-                string stringCommand = "INSERT INTO ALUNOS (MATRICULA, NOME, CPF, DATANASCIMENTO, SEXO) VALUES (GEN_ID(MATRICULA_SEQ, 1), @Nome, @CPF, @Data, @Sexo);";
+                string stringCommand = "INSERT INTO ALUNOS (MATRICULA, NOME, CPF, DATANASCIMENTO, SEXO) VALUES (NEXT VALUE FOR MATRICULA_SEQ, @Nome, @CPF, @Data, @Sexo)";
                 var command = new FbCommand(stringCommand, connection);
 
                 string? CPF = aluno.CPF?.Replace(".", "").Replace("-", "");
@@ -79,7 +79,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ////throw new Exception("Algo deu errado: " + ex);
             }
         }
         public override void Update(Aluno aluno)
@@ -104,7 +104,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ////throw new Exception("Algo deu errado: " + ex);
             }
         }
         public override void Remove(Aluno aluno)
@@ -122,7 +122,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ////throw new Exception("Algo deu errado: " + ex);
             }
         }
 

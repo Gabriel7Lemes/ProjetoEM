@@ -22,3 +22,15 @@ C:\Projeto\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
 C:\Projeto\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
 C:\Projeto\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
 C:\Projeto\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll
+C:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.deps.json
+C:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.dll
+C:\ProjetoEM\EM_Web\EM.Domain\bin\Debug\net8.0\EM.Domain.pdb
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfoInputs.cache
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfo.cs
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.sourcelink.json
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
+C:\ProjetoEM\EM_Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll

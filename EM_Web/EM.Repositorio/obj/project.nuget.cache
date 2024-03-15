@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/mYR1h9fatFbJ6hgz3RWcgjuHSXj7WauGiHWh+/+3pCnDxdm+mwtTPPvYW6uSymijnjzV5B2DFpWClsaKzhT3Q==",
+  "dgSpecHash": "XHxdgWpC4YPFoEfAGw13OJGsssD5IRdmspbGAGs8XEtIwJbjSUzEuyrYxZEhcM+wggW1VE19NIT4A+NN+9uMAA==",
   "success": true,
-  "projectFilePath": "D:\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
+  "projectFilePath": "C:\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabri\\.nuget\\packages\\firebirdsql.data.firebirdclient\\9.1.1\\firebirdsql.data.firebirdclient.9.1.1.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\firebirdsql.data.firebirdclient\\9.1.1\\firebirdsql.data.firebirdclient.9.1.1.nupkg.sha512"
   ],
   "logs": []
 }

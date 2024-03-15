@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQZc+GpElzv3hRmCwq1ThkC7kVuLP7QruPttwIB5O+ly/HkVzQJ2V+KiMB4E/0NJCsGePu1oWHw6+3dU3pFLww==",
+  "dgSpecHash": "6ot3vt6z1Ejw58/OBLZWtl/rr3vanqgTVQ8hUxEvPjVe2LeSR15EAmdQ9YRqgYPzANVeM04BcgHsk6wNQQWuzA==",
   "success": true,
-  "projectFilePath": "D:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
+  "projectFilePath": "C:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

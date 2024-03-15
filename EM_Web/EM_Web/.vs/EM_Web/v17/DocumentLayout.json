@@ -1,100 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\",
+  "WorkspaceRootPath": "C:\\ProjetoEM\\EM_Web\\EM_Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACCC2E5F-54A2-4C96-992E-4BE2C18A129F}|..\\EM.Repositorio\\EM.Repositorio.csproj|c:\\projetoem\\em_web\\em.repositorio\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCC2E5F-54A2-4C96-992E-4BE2C18A129F}|..\\EM.Repositorio\\EM.Repositorio.csproj|c:\\projeto\\projetoem\\em_web\\em.repositorio\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\helpers\\validacaocpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\helpers\\validacaocpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:helpers\\validacaocpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCC2E5F-54A2-4C96-992E-4BE2C18A129F}|..\\EM.Repositorio\\EM.Repositorio.csproj|c:\\projeto\\projetoem\\em_web\\em.repositorio\\repositorioabstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACCC2E5F-54A2-4C96-992E-4BE2C18A129F}|..\\EM.Repositorio\\EM.Repositorio.csproj|c:\\projeto\\projetoem\\em_web\\em.repositorio\\em.repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\aluno\\cadastrareditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\aluno\\cadastrareditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\aluno\\cadastrareditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9872D-DFE8-40F8-B750-EBC0AE858C28}|..\\EM.Domain\\EM.Domain.csproj|c:\\projeto\\projetoem\\em_web\\em.domain\\em.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\emweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\emweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:emweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9872D-DFE8-40F8-B750-EBC0AE858C28}|..\\EM.Domain\\EM.Domain.csproj|c:\\projeto\\projetoem\\em_web\\em.domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9872D-DFE8-40F8-B750-EBC0AE858C28}|..\\EM.Domain\\EM.Domain.csproj|c:\\projeto\\projetoem\\em_web\\em.domain\\ientidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\views\\aluno\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\views\\aluno\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:views\\aluno\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\models\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\models\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:models\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\helpers\\conversaodetipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\helpers\\conversaodetipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:helpers\\conversaodetipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projeto\\projetoem\\em_web\\em_web\\models\\enumeradorsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|c:\\projetoem\\em_web\\em_web\\models\\enumeradorsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B29AAF3-480D-4C15-B2D3-A4E1DB44E100}|EMWeb.csproj|solutionrelative:models\\enumeradorsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAbstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\IEntidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -144,50 +146,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T18:40:45.523Z",
+              "DocumentIndex": 0,
+              "Title": "RepositorioAluno.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
+              "RelativeDocumentMoniker": "..\\EM.Repositorio\\RepositorioAluno.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
+              "RelativeToolTip": "..\\EM.Repositorio\\RepositorioAluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:16:47.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T18:40:42.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T18:40:45.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T18:40:28.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T18:40:42.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T18:40:28.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -195,126 +207,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "EM.Repositorio.csproj",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
-              "RelativeDocumentMoniker": "..\\EM.Repositorio\\EM.Repositorio.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
-              "RelativeToolTip": "..\\EM.Repositorio\\EM.Repositorio.csproj",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\EM.Repositorio.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T12:18:23.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "RepositorioAluno.cs",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
-              "RelativeDocumentMoniker": "..\\EM.Repositorio\\RepositorioAluno.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
-              "RelativeToolTip": "..\\EM.Repositorio\\RepositorioAluno.cs",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAluno.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAswEUAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:18:23.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Program.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Program.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T12:18:23.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CadastrarEditar.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\CadastrarEditar.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\CadastrarEditar.cshtml",
               "RelativeDocumentMoniker": "Views\\Aluno\\CadastrarEditar.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\CadastrarEditar.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\CadastrarEditar.cshtml",
               "RelativeToolTip": "Views\\Aluno\\CadastrarEditar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T12:18:23.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "RepositorioAbstrato.cs",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAbstrato.cs",
-              "RelativeDocumentMoniker": "..\\EM.Repositorio\\RepositorioAbstrato.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAbstrato.cs",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAbstrato.cs",
-              "RelativeToolTip": "..\\EM.Repositorio\\RepositorioAbstrato.cs",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Repositorio\\RepositorioAbstrato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:18:23.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ValidacaoCPF.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ValidacaoCPF.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ValidacaoCPF.cs",
               "RelativeDocumentMoniker": "Helpers\\ValidacaoCPF.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ValidacaoCPF.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ValidacaoCPF.cs",
               "RelativeToolTip": "Helpers\\ValidacaoCPF.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:18:23.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T18:40:44.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T18:40:44.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "EM.Domain.csproj",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\EM.Domain\\EM.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
-              "RelativeToolTip": "..\\EM.Domain\\EM.Domain.csproj",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-14T12:19:10.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\Aluno.cs",
-              "RelativeDocumentMoniker": "..\\EM.Domain\\Aluno.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\Aluno.cs",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\Aluno.cs",
-              "RelativeToolTip": "..\\EM.Domain\\Aluno.cs",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\Aluno.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAArwAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T12:18:23.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "Deletar.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Deletar.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Deletar.cshtml",
               "RelativeDocumentMoniker": "Views\\Aluno\\Deletar.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Deletar.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Deletar.cshtml",
               "RelativeToolTip": "Views\\Aluno\\Deletar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -322,24 +328,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Index.cshtml",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Aluno\\Index.cshtml",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Views\\Aluno\\Index.cshtml",
               "RelativeToolTip": "Views\\Aluno\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T12:18:23.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T12:18:23.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "EMWeb.csproj",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\EMWeb.csproj",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\EMWeb.csproj",
               "RelativeDocumentMoniker": "EMWeb.csproj",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\EMWeb.csproj",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\EMWeb.csproj",
               "RelativeToolTip": "EMWeb.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -347,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\appsettings.json",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\appsettings.json",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -359,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "AlunoModel.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Models\\AlunoModel.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Models\\AlunoModel.cs",
               "RelativeDocumentMoniker": "Models\\AlunoModel.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Models\\AlunoModel.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Models\\AlunoModel.cs",
               "RelativeToolTip": "Models\\AlunoModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -383,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 15,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -395,23 +400,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T12:18:23.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\AlunoController.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "Controllers\\AlunoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 17,
               "Title": "ConversaoDeTipos.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ConversaoDeTipos.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ConversaoDeTipos.cs",
               "RelativeDocumentMoniker": "Helpers\\ConversaoDeTipos.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ConversaoDeTipos.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Helpers\\ConversaoDeTipos.cs",
               "RelativeToolTip": "Helpers\\ConversaoDeTipos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 18,
               "Title": "EnumeradorSexo.cs",
-              "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Models\\EnumeradorSexo.cs",
+              "DocumentMoniker": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Models\\EnumeradorSexo.cs",
               "RelativeDocumentMoniker": "Models\\EnumeradorSexo.cs",
-              "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM_Web\\Models\\EnumeradorSexo.cs",
+              "ToolTip": "C:\\ProjetoEM\\EM_Web\\EM_Web\\Models\\EnumeradorSexo.cs",
               "RelativeToolTip": "Models\\EnumeradorSexo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,12 +448,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "IEntidade.cs",
               "DocumentMoniker": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\IEntidade.cs",
-              "RelativeDocumentMoniker": "..\\EM.Domain\\IEntidade.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\IEntidade.cs",
               "ToolTip": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\IEntidade.cs",
-              "RelativeToolTip": "..\\EM.Domain\\IEntidade.cs",
+              "RelativeToolTip": "..\\..\\..\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\IEntidade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T12:18:23.978Z"
