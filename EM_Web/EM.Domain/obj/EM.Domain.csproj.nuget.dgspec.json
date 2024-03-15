@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj": {}
+    "D:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj": {
+    "D:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
+        "projectUniqueName": "D:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
         "projectName": "EM.Domain",
-        "projectPath": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto\\ProjetoEM\\EM_Web\\EM.Domain\\obj\\",
+        "projectPath": "D:\\ProjetoEM\\EM_Web\\EM.Domain\\EM.Domain.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjetoEM\\EM_Web\\EM.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -24,7 +24,7 @@ namespace EM_RepositorioAluno
                 //Port = 3054
                 //Database = "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_EM\\DBALUNOS.FB4",
                 //DataSource = "localhost",
-                Port = 3054
+                Port = 3050
             };
             _connectionString = connectionString;
         }
@@ -36,7 +36,7 @@ namespace EM_RepositorioAluno
             try
             {
                 connection.Open();
-                string stringCommand = "SELECT * FROM TBALUNO ORDER BY ALUMATRICULA;";
+                string stringCommand = "SELECT * FROM TBALUNO ORDER BY MATRICULA;";
                 var command = new FbCommand(stringCommand, connection);
 
                 using var reader = command.ExecuteReader();
@@ -71,7 +71,7 @@ namespace EM_RepositorioAluno
             connection.Open();
             try
             {
-                string stringCommand = "INSERT INTO TBALUNO (ALUMATRICULA, ALUNOME, ALUCPF, ALUNASCIMENTO, ALUSEXO) VALUES((GEN_ID(GEN_TBALUNO, 1)), @Nome, @CPF, @Data, @Sexo);";
+                string stringCommand = "INSERT INTO ALUNOS (MATRICULA, NOME, CPF, DATANASCIMENTO, SEXO) VALUES((GEN_ID(MATRICULA_SEQ, 1), @Nome, @CPF, @Data, @Sexo);";
                 var command = new FbCommand(stringCommand, connection);
 
                 string? CPF = aluno.CPF?.Replace(".", "").Replace("-", "");
@@ -84,7 +84,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ///throw new Exception("Algo deu errado: " + ex);
             }
         }
         public override void Update(Aluno aluno)
@@ -94,8 +94,8 @@ namespace EM_RepositorioAluno
             connection.Open();
             try
             {
-                string stringCommand = @"UPDATE TBALUNO SET ALUMATRICULA = @Matricula ,ALUNOME = @Nome,ALUCPF = @CPF, ALUNASCIMENTO = @Data, ALUSEXO = @Sexo
-                                                WHERE ALUMATRICULA = @Matricula;";
+                string stringCommand = @"UPDATE ALUNOS SET MATRICULA = @Matricula ,NOME = @Nome,CPF = @CPF, DATANASCIMENTO = @Data, SEXO = @Sexo
+                                                WHERE MATRICULA = @Matricula;";
                 var command = new FbCommand(stringCommand, connection);
 
                 string? CPF = aluno.CPF?.Replace(".", "").Replace("-", "");
@@ -119,7 +119,7 @@ namespace EM_RepositorioAluno
             connection.Open();
             try
             {
-                string stringCommand = @"DELETE FROM TBALUNO  WHERE ALUMATRICULA = @Matricula;";
+                string stringCommand = @"DELETE FROM ALUNOS WHERE MATRICULA = @Matricula;";
                 var command = new FbCommand(stringCommand, connection);
 
                 command.Parameters.Add("@Matricula", aluno.Matricula);
@@ -127,7 +127,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                throw new Exception("Algo deu errado: " + ex);
+                ///throw new Exception("Algo deu errado: " + ex);
             }
         }
 
@@ -139,11 +139,11 @@ namespace EM_RepositorioAluno
             {
                 var aluno = new Aluno
                 {
-                    Matricula = reader.GetInt32("ALUMATRICULA"),
-                    Nome = reader.GetString("ALUNOME"),
-                    CPF = reader.GetString("ALUCPF"),
-                    Sexo = (EnumeradorSexo)reader.GetInt32("ALUSEXO"),
-                    Nascimento = reader.GetDateTime("ALUNASCIMENTO")
+                    Matricula = reader.GetInt32("MATRICULA"),
+                    Nome = reader.GetString("NOME"),
+                    CPF = reader.GetString("CPF"),
+                    Sexo = (EnumeradorSexo)reader.GetInt32("SEXO"),
+                    Nascimento = reader.GetDateTime("DATANASCIMENTO")
                 };
                 alunos.Add(aluno);
             }
