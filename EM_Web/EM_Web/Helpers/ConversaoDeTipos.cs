@@ -19,13 +19,13 @@ namespace WebApp.Helpers
 
         public static IEnumerable<AlunoModel> ConversaoListaDeDomainparaModel(IEnumerable<Aluno> alunosDomain)
         {
-            IEnumerable<AlunoModel> ListaConvertida = alunosDomain.Select(o => new AlunoModel
+            IEnumerable<AlunoModel> ListaConvertida = alunosDomain.Select(aluno => new AlunoModel
             {
-                Matricula = o.Matricula,
-                Nome = o.Nome,
-                CPF = o.CPF,
-                Nascimento = o.Nascimento,
-                Sexo = (EnumeradorSexo)o.Sexo,
+                Matricula = aluno.Matricula,
+                Nome = aluno.Nome,
+                CPF = aluno.CPF,
+                Nascimento = aluno.Nascimento,
+                Sexo = (EnumeradorSexo)aluno.Sexo,
             });
             return ListaConvertida;
         }

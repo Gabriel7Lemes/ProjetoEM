@@ -8,10 +8,10 @@ using WebApp.Models;
 
 namespace WebApp.Controllers
 {
-    public class HomeController : Controller
+    public class ListagemController : Controller
     {
         private readonly RepositorioAluno _repositorio;
-        public HomeController(RepositorioAluno repositorio)
+        public ListagemController(RepositorioAluno repositorio)
         {
             _repositorio = repositorio;
         }

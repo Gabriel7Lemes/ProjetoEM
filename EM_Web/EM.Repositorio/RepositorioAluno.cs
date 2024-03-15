@@ -17,13 +17,8 @@ namespace EM_RepositorioAluno
             {
                 UserID = "SYSDBA",
                 Password = "masterkey",
-                //Database = "C:\\Users\\Escolar Manager\\Desktop\\Projeto_EM\\DBALUNOS.FB4",
-                Database = "D:\\ProjetoEM\\EM_Web\\DBALUNOS.FB4",
-                //DataSource = "192.168.1.143",
+                Database = @"D:\ProjetoEM\EM_Web\DBALUNOS.FB4",
                 DataSource = "localhost",
-                //Port = 3054
-                //Database = "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_EM\\DBALUNOS.FB4",
-                //DataSource = "localhost",
                 Port = 3050
             };
             _connectionString = connectionString;
@@ -36,7 +31,7 @@ namespace EM_RepositorioAluno
             try
             {
                 connection.Open();
-                string stringCommand = "SELECT * FROM TBALUNO ORDER BY MATRICULA;";
+                string stringCommand = "SELECT * FROM ALUNOS ORDER BY MATRICULA;";
                 var command = new FbCommand(stringCommand, connection);
 
                 using var reader = command.ExecuteReader();
@@ -44,7 +39,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                //throw new Exception("Algo deu errado: " + ex);
+                throw new Exception("Algo deu errado: " + ex);
             }
             return alunos;
         }
@@ -71,12 +66,12 @@ namespace EM_RepositorioAluno
             connection.Open();
             try
             {
-                string stringCommand = "INSERT INTO ALUNOS (MATRICULA, NOME, CPF, DATANASCIMENTO, SEXO) VALUES((GEN_ID(MATRICULA_SEQ, 1), @Nome, @CPF, @Data, @Sexo);";
+                string stringCommand = "INSERT INTO ALUNOS (MATRICULA, NOME, CPF, DATANASCIMENTO, SEXO) VALUES (GEN_ID(MATRICULA_SEQ, 1), @Nome, @CPF, @Data, @Sexo);";
                 var command = new FbCommand(stringCommand, connection);
 
                 string? CPF = aluno.CPF?.Replace(".", "").Replace("-", "");
-                command.Parameters.Add("@Nome", aluno.Nome.ToLower());
-                command.Parameters.Add("@CPF", CPF);
+                command.Parameters.Add("@Nome", aluno.Nome.ToString().ToLower());
+                command.Parameters.Add("@CPF", !string.IsNullOrEmpty(CPF) ? CPF.ToString(): "");
                 command.Parameters.Add("@Data", aluno.Nascimento.ToString("yyyy/MM/dd"));
                 command.Parameters.Add("@Sexo", (int)aluno.Sexo);
 
@@ -84,7 +79,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                ///throw new Exception("Algo deu errado: " + ex);
+                throw new Exception("Algo deu errado: " + ex);
             }
         }
         public override void Update(Aluno aluno)
@@ -127,7 +122,7 @@ namespace EM_RepositorioAluno
             }
             catch (Exception ex)
             {
-                ///throw new Exception("Algo deu errado: " + ex);
+                throw new Exception("Algo deu errado: " + ex);
             }
         }
 
